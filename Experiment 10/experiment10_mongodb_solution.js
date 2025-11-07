@@ -1,6 +1,6 @@
 
 // Experiment 10 — CRUD Operations in MongoDB
-// Student: Ayush Kohli (UID: 23BCS11238)
+// Student: Ankush (UID: 23BCS12742)
 
 // 1. Show all databases
 show dbs;
